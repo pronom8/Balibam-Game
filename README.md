@@ -11,5 +11,5 @@ Follow these steps to get the game up and running on your local machine:
 1. Navigate to the src folder:
 2. go to main.py
 3. Ensure you have the required libraries installed. 
-4. Run the game:
+4. Run the game by running the main.py file:
 
